@@ -9,7 +9,7 @@
   <a href="https://github.com/Vishal710-max">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Vishal Bhingarde;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
   </a>
-</p>
+</p> 
 
 <!-- F700FF -->
 
@@ -63,8 +63,9 @@ Motto : Learn. Build. Share. Grow.
 
 ---
 
+<!--
 ## 📊 GitHub Stats & Streak
-<!-- theme=chartreuse-dark -->
+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
@@ -72,7 +73,7 @@ Motto : Learn. Build. Share. Grow.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=radical&hide_border=true" height="180px"/>
 </p>
 
-
+-->
 
 ---
 
@@ -155,4 +156,5 @@ Motto : Learn. Build. Share. Grow.
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
+
 </p>
