@@ -9,7 +9,7 @@
   <a href="https://github.com/Vishal710-max">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Vishal Bhingarde;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
   </a>
-</p> 
+</p>
 
 <!-- F700FF -->
 
@@ -63,17 +63,16 @@ Motto : Learn. Build. Share. Grow.
 
 ---
 
-<!--
 ## 📊 GitHub Stats & Streak
- 
+<!-- theme=chartreuse-dark -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal710-max&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal710-max&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal710-max&theme=radical&hide_border=true" height="180px"/>
 </p>
 
--->
+
 
 ---
 
@@ -82,8 +81,8 @@ Motto : Learn. Build. Share. Grow.
   <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-ResultManagement-System&theme=radical"/>
   </a> <br/>
-  <a href="https://github.com/Shreyash-SP80/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=radical"/>
+  <a href="https://github.com/Vishal710-max/Password-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal710-max&repo=Password-manager&theme=radical"/>
   </a>
 </p>
 
@@ -156,5 +155,4 @@ Motto : Learn. Build. Share. Grow.
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
-
 </p>
