@@ -94,7 +94,7 @@ Motto : Learn. Build. Share. Grow.
 ## 🌐 Socials
 
 <div align="center">
-  
+   
 ## 🤝 Let's Connect and Create Something Amazing!
 
 <p align="center">
@@ -138,6 +138,10 @@ Motto : Learn. Build. Share. Grow.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
+
+# > <code align="left">⠀Activity⠀</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal710-max&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/Vishal710-max)
+
 
 </div>
 
