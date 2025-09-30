@@ -7,12 +7,9 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Vishal710-max">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Vishal Bhingarde;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Vishal+Bhingarde;A+Developer+from+India;I+Love+Coding+and+Problem+Solving;Let's+Build+Something+Awesome!">
   </a>
 </p>
-
-<!-- F700FF -->
-
 ---
 
 
@@ -160,6 +157,7 @@ Motto : Learn. Build. Share. Grow.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+
 
 
 
