@@ -133,7 +133,7 @@ Motto : Learn. Build. Share. Grow.
 
 <!-- Profile views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal710-max&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 # > <code align="left">⠀Activity⠀</code>
