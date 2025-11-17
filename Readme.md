@@ -73,18 +73,6 @@ Motto : Learn. Build. Share. Grow.
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-ResultManagement-System&theme=radical"/>
-  </a> <br/>
-  <a href="https://github.com/Vishal710-max/Password-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishal710-max&repo=Password-manager&theme=radical"/>
-  </a>
-</p>
-
-<!--
----
 
 ---
 <!-- Animated connection links with working icons -->
@@ -157,6 +145,7 @@ Motto : Learn. Build. Share. Grow.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+
 
 
 
