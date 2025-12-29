@@ -13,8 +13,8 @@
 ---
 
 
-
-
+## ⚡ Tech Identity
+| **Name** : Vishal Bhingarde  <br> **Role** : Final Year Student &#124; C++ & Full-Stack Developer <br> **Focus** : Data Structures & Algorithms + MERN Stack + Full Stack Java  <br> **Exploring** : AI Agents &#124; Data Science &#124; Problem-Solving &#124; Aptitude <br> **Vision** : Build impactful projects while mastering core CS concepts <br> **Motto** : Learn. Build. Share. Grow.
 
 
 <div align="center">
@@ -135,6 +135,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+
 
 
 
