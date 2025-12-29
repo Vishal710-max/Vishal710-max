@@ -15,14 +15,7 @@
 
 
 
-## ⚡ Tech Identity
 
-Name : Vishal Bhingarde
-Role : Final Year Student | C++ & Full-Stack Developer
-Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
-Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
-Vision : Build impactful projects while mastering core CS concepts
-Motto : Learn. Build. Share. Grow.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
@@ -142,6 +135,7 @@ Motto : Learn. Build. Share. Grow.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+
 
 
 
