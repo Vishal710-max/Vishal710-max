@@ -84,6 +84,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Gmail"/>
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/vishal.bhingarde?igsh=MTJjcHR6ajI3dTNsYQ==" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" alt="InstGram"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/Vishal710-max" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
   </a>
@@ -135,6 +139,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
 </p>
+
 
 
 
