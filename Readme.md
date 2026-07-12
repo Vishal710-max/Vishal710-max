@@ -126,20 +126,6 @@
 
 ---
 
-## 🎯 Developer Wisdom
-
-<p align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=default&quoteCategory=programming" alt="Developer wisdom quote" />
-  </a>
-</p>
-
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
-</p>
-
 
 
 
